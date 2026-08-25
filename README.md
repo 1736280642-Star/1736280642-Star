@@ -7,13 +7,13 @@ I am learning AI product building through hands‑on small‑scale projects.
 I turn repetitive tasks and real‑world requirements into reusable Agents, Skills, automated workflows and content assets.
 
 ## Currently exploring
+
+```text
 ‑ AI product design and requirement validation
-
 ‑ Agents, Skills and workflow automation
-
 ‑ AI‑aided content creation and knowledge base construction
-
 ‑ Lightweight development from idea to deliverable product
+```
 
 ## Building principles
 
@@ -25,8 +25,11 @@ Turn lessons into reusable assets
 ```
 
 ## Current projects
+
 https://github.com/1736280642-Star/Greenlens/tree/main
+
 https://github.com/1736280642-Star/gtm-content-growth-workbench
+
 https://github.com/1736280642-Star/Goal-driven-AI-Knowledge-OS-
 
 
