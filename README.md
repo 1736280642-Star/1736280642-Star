@@ -25,8 +25,10 @@ Turn lessons into reusable assets
 ```
 
 ## Current projects
-https://gtm-content-growth-workbench.vercel.app/](https://github.com/1736280642-Star/Greenlens/tree/main)
+https://github.com/1736280642-Star/Greenlens/tree/main
+https://github.com/1736280642-Star/gtm-content-growth-workbench
 https://github.com/1736280642-Star/Goal-driven-AI-Knowledge-OS-
+
 
 ##  Codex Activity 🤖
 
