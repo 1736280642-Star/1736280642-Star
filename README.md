@@ -5,8 +5,11 @@ I am learning AI product building through hands‑on small‑scale projects. I t
 
 ## Currently exploring
 ‑ AI product design and requirement validation
+
 ‑ Agents, Skills and workflow automation
+
 ‑ AI‑aided content creation and knowledge base construction
+
 ‑ Lightweight development from idea to deliverable product
 
 ## Building principles
