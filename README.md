@@ -1,7 +1,10 @@
 # Hi，Welcome to Kari's area🥳
 
 Junior majoring in Supply Chain Management, AI‑product learner, AI enthusiast and content creator.
-I am learning AI product building through hands‑on small‑scale projects. I turn repetitive tasks and real‑world requirements into reusable Agents, Skills, automated workflows and content assets.
+
+I am learning AI product building through hands‑on small‑scale projects.
+
+I turn repetitive tasks and real‑world requirements into reusable Agents, Skills, automated workflows and content assets.
 
 ## Currently exploring
 ‑ AI product design and requirement validation
