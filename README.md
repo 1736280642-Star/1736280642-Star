@@ -1,4 +1,4 @@
-# Hi，Welcome to Kari's area🥳
+# Hi，Welcome to Kari's area！🥳
 
 Junior majoring in Supply Chain Management, AI‑product learner, AI enthusiast and content creator.
 
@@ -28,7 +28,7 @@ Turn lessons into reusable assets
 https://gtm-content-growth-workbench.vercel.app/](https://github.com/1736280642-Star/Greenlens/tree/main)
 https://github.com/1736280642-Star/Goal-driven-AI-Knowledge-OS-
 
-## 🤖 Codex Activity
+##  Codex Activity 🤖
 
 ![Codex Activity](./codex-heatmap.svg)
 
