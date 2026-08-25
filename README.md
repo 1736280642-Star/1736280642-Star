@@ -33,4 +33,4 @@ https://github.com/1736280642-Star/Goal-driven-AI-Knowledge-OS-
 ![Codex Activity](./codex-heatmap.svg)
 
 ## Connecting with me 📬
-email: 1736280642@qq.com
+ 1736280642@qq.com
