@@ -1,0 +1,7 @@
+# Local Codex usage data must never be published.
+codex.json
+
+# Local execution artifacts.
+*.log
+*.preview.png
+node_modules/
