@@ -1,15 +1,13 @@
 # Hi，Welcome to Kari's area🥳
 
-大三供应链管理专业学生、AI 产品学习者、AI爱好者与内容创作者。
+Junior majoring in Supply Chain Management, AI‑product learner, AI enthusiast and content creator.
+I am learning AI product building through hands‑on small‑scale projects. I turn repetitive tasks and real‑world requirements into reusable Agents, Skills, automated workflows and content assets.
 
-我正在通过真实的小项目学习AI产品，把重复工作与具体的需求沉淀成可复用的 Agent、Skill、自动化工作流和内容资产。
-
-## Currently exploring 
-
-- AI 产品设计与需求验证
-- Agent、Skill 与工作流自动化
-- AI 辅助内容创作和知识库建设
-- 从想法到可交付产品的轻量化开发
+## Currently exploring
+‑ AI product design and requirement validation
+‑ Agents, Skills and workflow automation
+‑ AI‑aided content creation and knowledge base construction
+‑ Lightweight development from idea to deliverable product
 
 ## Building principles
 
