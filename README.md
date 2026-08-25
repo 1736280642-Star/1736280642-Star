@@ -1,10 +1,10 @@
-# Hi, I'm Kari 👋
+# Hi，Welcome to Kari's area🥳
 
-AI 产品学习者、独立构建者与内容创作者。
+大三供应链管理专业学生、AI 产品学习者、AI爱好者与内容创作者。
 
-我正在通过真实的小项目学习 AI 产品设计，把重复工作沉淀成可复用的 Agent、Skill、自动化工作流和内容资产。
+我正在通过真实的小项目学习AI产品，把重复工作与具体的需求沉淀成可复用的 Agent、Skill、自动化工作流和内容资产。
 
-## Currently exploring
+## Currently exploring 
 
 - AI 产品设计与需求验证
 - Agent、Skill 与工作流自动化
@@ -21,15 +21,12 @@ Turn lessons into reusable assets
 ```
 
 ## Current projects
-
-<!-- 把下面内容替换成你真实、可访问的项目；没有成品时宁缺毋滥。 -->
-
-- Building small AI products around real workflows
-- Documenting product experiments and reusable methods
+https://gtm-content-growth-workbench.vercel.app/](https://github.com/1736280642-Star/Greenlens/tree/main)
+https://github.com/1736280642-Star/Goal-driven-AI-Knowledge-OS-
 
 ## 🤖 Codex Activity
 
 ![Codex Activity](./codex-heatmap.svg)
 
-<!-- 按需补充公开联系方式，提交前不要放手机号、私人链接或不希望公开的邮箱。 -->
-
+## Connecting with me 📬
+email: 1736280642@qq.com
